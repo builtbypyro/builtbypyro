@@ -1,10 +1,10 @@
 ![Header](./header.png)
 
-<h1 align="center">pyro#4149</h1>
-<p align="center"> py, js, java</p>
-<a href="https://github.com/pyroTM">
+<h1 align="center">pyro</h1>
+<p align="center"> py, js, cpp</p>
+<a href="https://github.com/forfeited">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=pyroTM" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=forfeited" alt="Profile Views">
   </p>
 </a>
 
@@ -16,7 +16,7 @@
   <img src="https://discord.c99.nl/widget/theme-3/948737535931219989.png" />
   <br />
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=pyroTM&theme=nord&margin-w=15&margin-h=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=forfeited&theme=nord&margin-w=15&margin-h=1&column=6" />
 </p>
 
 ![Footer](./footer.png)
